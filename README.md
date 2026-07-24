@@ -23,7 +23,13 @@
 
 ## 🛠 Languages and Tools
 
-<p align="left"><img src="https://skillicons.dev/icons?i=c,cpp,python" height="110" alt="C, C++ and Python">&nbsp;<img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="74" height="74" alt="STMicroelectronics">&nbsp;<img src="./Altium-Designer-icon.png" width="74" height="74" alt="Altium Designer"></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" width="90" height="90">
+  <img src="https://skillicons.dev/icons?i=cpp" width="90" height="90">
+  <img src="https://skillicons.dev/icons?i=python" width="90" height="90">
+  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="78" height="78">
+  <img src="./Altium-Designer-icon.png" width="78" height="78">
+</p>
 
 ---
 
