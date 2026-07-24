@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ivan</h1>
 
-<!--
-**Ivanvvs/Ivanvvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Electronics Engineer · Embedded Developer · Software Engineering Master's Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I design electronic devices, develop PCBs, and write firmware for embedded systems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🔧 Schematic and PCB/FCB designer
+- ⚙️ Developing embedded systems based on STM32 microcontrollers
+- 🔋 Working on low-power embedded devices, currently focusing on Zigbee
+- 💻 Working with C, C++ and Python
+- 📡 Interested in embedded systems, IoT and backend development
+- 🎓 Master's student in Software Engineering
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" height="48" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" height="48" />
+</p>
+
+---
+
+## 🔌 Embedded Development
+
+- STM32 and ARM Cortex-M microcontrollers
+- Bare-metal and HAL-based firmware
+- Low-power embedded devices
+- Zigbee wireless networks
+- UART, SPI, I²C, ADC, DAC and DMA
+- Timers, PWM, Input Capture and Output Compare
+- Interrupts and low-power modes
+- Hardware debugging and firmware testing
+
+---
+
+## 📐 Hardware Development
+
+- Schematic design
+- Multilayer PCB layout
+- Component selection
+- BOM preparation
+- Gerber and manufacturing documentation
+- Hardware debugging and prototyping
+- Altium Designer
+
+---
+
+## 📚 Currently Learning
+
+- Advanced STM32 development
+- Low-power embedded system design
+- Zigbee networks and wireless IoT devices
+- Modern C and C++
+- Advanced Python programming
+- Backend application architecture
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
