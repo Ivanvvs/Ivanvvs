@@ -43,7 +43,7 @@
 
 ---
 
-## 🔌 Embedded Development
+## 🤖 Embedded Development
 
 - STM32 and ARM Cortex-M microcontrollers
 - Bare-metal and HAL-based firmware
@@ -56,7 +56,7 @@
 
 ---
 
-## 📐 Hardware Development
+## 🔋 Hardware Development
 
 - Schematic design
 - Multilayer PCB layout
@@ -78,15 +78,3 @@
 - Backend application architecture
 
 ---
-
-## 📫 Contact Me
-
-<p align="left">
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
