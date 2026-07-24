@@ -26,23 +26,11 @@
 ## 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" width="74" height="74" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="74" height="74" />
-  <img src="https://skillicons.dev/icons?i=python" width="74" height="74" />
-
-  <img
-    src="https://cdn.simpleicons.org/stmicroelectronics/03234B"
-    width="74"
-    height="74"
-    alt="STM32"
-  />
-
-  <img
-    src="https://cdn.simpleicons.org/altiumdesigner/A5915F"
-    width="74"
-    height="74"
-    alt="Altium Designer"
-  />
+  <img src="https://skillicons.dev/icons?i=c" width="74" height="74" alt="C">&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="74" height="74" alt="C++">&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="74" height="74" alt="Python">&nbsp;
+  <img src="./assets/stm32.png" width="74" height="74" alt="STM32">&nbsp;
+  <img src="./assets/altium-designer.png" width="74" height="74" alt="Altium Designer">
 </p>
 
 ---
